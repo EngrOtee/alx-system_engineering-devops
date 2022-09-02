@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-cat /etc/group
-=======
-cat /etc/group
->>>>>>> 3a8e8185021dd0a6430a9b93d4bb07283f87a562
+groups
