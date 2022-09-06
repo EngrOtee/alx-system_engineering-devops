@@ -1,0 +1,1 @@
+This script will handle variables, arithematics in the shell command of linux
